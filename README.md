@@ -3,8 +3,8 @@
 Kernel module for keyboard backlighting of Clevo SM series notebooks.
 (And several EM/ZM/DM series models)
 
-Based upon tuxedo-wmi, created by TUXEDO Computers GmbH.
-http://www.linux-onlineshop.de/forum/index.php?page=Thread&threadID=26
+Based upon https://bitbucket.org/tuxedocomputers/clevo-xsm-wmi
+With slight modification for Metabox Alpha N850HJ
 
 ### Additions over tuxedo-wmi
 * Sysfs interface to control the brightness, mode, colour,
